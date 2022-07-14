@@ -3,7 +3,7 @@ my:
   greeting: Hello World from cloud config server updated
 
 server:
-  port: 9090
+  port: 9095
     
 # Configuration for MySQL Database
 spring:
